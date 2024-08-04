@@ -18,9 +18,3 @@ Simulación de un sistema operativo distribuido en 4 modulos con algoritmo de pa
 
 ### Si queres probar o compilar el trabajo, tene en cuenta que este solo esta pensado para que funcione en un entorno controlado provisto por la [Cátedra](https://docs.utnso.com.ar/recursos/vms) (VM)
 ### Si tenes alguna duda de como funciona el código podes contactar a los autores
-
-Ante cualquier duda, podés consultar la documentación en el repositorio de
-[so-deploy], o utilizar el comando `./deploy.sh -h`.
-
-[so-commons-library]: https://github.com/sisoputnfrba/so-commons-library
-[so-deploy]: https://github.com/sisoputnfrba/so-deploy
